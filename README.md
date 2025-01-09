@@ -107,6 +107,11 @@ Run the Azure Function locally:
 func start
 ```
 
+## **Sample Event**
+A sample event published to Event Grid:
+![image](https://github.com/user-attachments/assets/0bf4d2bb-5a12-47c1-b599-9ab8bb65bc5a)
+
+
 ## **Deploying App**
 After setting up the Azure resources and configuring your local environment, deploy the Azure Function to the Function App:
 ```bash
