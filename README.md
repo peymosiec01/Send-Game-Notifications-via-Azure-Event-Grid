@@ -1,6 +1,9 @@
-# **Send Game Notifications via Azure Event Grid**
+# **Send Game Notifications via Azure Event Grid 🏀**
 
-**Day 2 of the 30 Days DevOps Challenge**  
+
+## **Overview**
+**Day 2 of the 30 Days DevOps Challenge** `#DevOpsAllStarsChallenge`
+
 This project demonstrates an event-driven solution for sending NBA game notifications using **Azure Event Grid** and a timer-triggered Azure Function.
 
 
@@ -17,9 +20,7 @@ This project demonstrates an event-driven solution for sending NBA game notifica
 
 ```yaml
 GAME-DAY-NOTIFICATIONS/
-    ├── .python_packages/            # Installed Python dependencies
-    ├── .vscode/                     # VSCode workspace settings
-    ├── timer_trigger_game_notifications/ │
+    ├── timer_trigger_game_notifications/ 
         ├── init.py                  # Main function logic 
         ├── function.json            # Azure Function configuration
     ├── .gitignore                   # Git ignore rules
